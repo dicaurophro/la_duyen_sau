@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         p-i-x-i-v
 // @namespace    https://github.com/dicaurophro/la_duyen_sau/raw/main/p-i-x-i-v.user.js
-// @version      2023.09.14
+// @version      2024.08.05
 // @description  down p-i-x-i-v
 // @author       You
 // @match        https://comic.pixiv.net/viewer/stories/*
